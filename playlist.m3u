@@ -1,8 +1,20 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="1233" tvg-name="Canal 1" tvg-logo="https://cdn.m3u.cl/logo/1233_Canal_1.png", Canal 1 HD
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 HD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Teletica7.cr" tvg-logo="https://eventos.teletica.com/images/live-teletica7.png", Teletica 7
+#EXTVLCOPT:http-referrer=https://bradmax.com
+https://cdn01.teletica.com/TeleticaLiveStreamCR/Stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Teletica7.cr2" tvg-logo="https://eventos.teletica.com/images/live-teletica7.png", Teletica 7 HD (test)
+#EXTVLCOPT:http-referrer=https://bradmax.com
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=48404766
 
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios 8 HD
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -10,5 +22,5 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 HD
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA)..cr" tvg-logo="https://static.epg.best/cr/CanalExtra42.cr.png", ExtraTV 42
-https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm46yL5MO8kzj-B4rWKgg0Oziacjn4zgRcQ1hRL4haAR3I)/dm/3/x83sd3v/s/live-2.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="1050" tvg-name="TVN 14" tvg-logo="https://cdn.m3u.cl/logo/1050_TVN_14.png", TVN 14 | CR
+https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL
