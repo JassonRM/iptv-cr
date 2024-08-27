@@ -22,7 +22,7 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 HD
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="tvn14" tvg-name="TVN 14" tvg-logo="https://cdn.m3u.cl/logo/1050_TVN_14.png", TVN 14 | CR
+#EXTINF:-1 tvg-id="tvn14" tvg-name="TVN 14" tvg-logo="https://cdn.m3u.cl/logo/1050_TVN_14.png", TVN 14 HD
 https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL
 
 //#EXTINF:-1 tvg-id="FUTV.cr", FUTV HD
