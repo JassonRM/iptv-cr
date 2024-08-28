@@ -8,12 +8,9 @@ https://alba-cr-repretel-c2.stream.mediatiquestream.com/live2/alba-cr-repretel-c
 #EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 HD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/original.m3u8
 
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-logo="https://eventos.teletica.com/images/live-teletica7.png", Teletica 7
-https://cdn01.teletica.com/TeleticaLiveStreamCR/Stream/playlist_dvr.m3u8|Referrer=https://bradmax.com
-
-#EXTINF:-1 tvg-id="Teletica7.cr2" tvg-logo="https://eventos.teletica.com/images/live-teletica7.png", Teletica 7 HD (test)
+#EXTINF:-1 tvg-id="Teletica7.cr" tvg-logo="https://eventos.teletica.com/images/live-teletica7.png", Teletica 7 HD
 #EXTVLCOPT:http-referrer=https://bradmax.com
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=48404766
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios 8 HD
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
